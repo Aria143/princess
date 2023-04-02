@@ -1,2 +1,6 @@
-python-telegram-bot==13.9
-openai==0.13
+pyyaml
+transformers==4.14.3
+torch==1.9.1
+telegram==0.0.1
+python-telegram-bot==13.7
+
