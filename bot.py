@@ -2,7 +2,7 @@ import os
 import logging
 from telegram.ext import Updater, MessageHandler, Filters
 import openai
-openai.api_key = "YOUR_API_KEY" # replace with your OpenAI API key
+openai.api_key = "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" # replace with your OpenAI API key
 
 # Define the function that will generate the response from OpenAI's GPT
 def generate_response(text):
