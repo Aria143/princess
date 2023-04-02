@@ -1,4 +1,5 @@
 import telegram
+import telegram.ext
 import openai
 import os
 
