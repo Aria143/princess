@@ -1,5 +1,5 @@
 pyyaml
-transformers==4.14.3
+transformers==4.15.0
 torch==1.9.1
 telegram==0.0.1
 python-telegram-bot==13.7
