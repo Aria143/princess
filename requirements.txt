@@ -1,6 +1,0 @@
-pyyaml
-transformers==4.15.0
-torch==1.13.0
-telegram==0.0.1
-python-telegram-bot==13.7
-
